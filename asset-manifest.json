@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-react-sandbox/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/my-react-sandbox/static/js/main.8267088e.chunk.js",
+    "main.js.map": "/my-react-sandbox/static/js/main.8267088e.chunk.js.map",
+    "runtime-main.js": "/my-react-sandbox/static/js/runtime-main.5c160302.js",
+    "runtime-main.js.map": "/my-react-sandbox/static/js/runtime-main.5c160302.js.map",
+    "static/js/2.839d4cd8.chunk.js": "/my-react-sandbox/static/js/2.839d4cd8.chunk.js",
+    "static/js/2.839d4cd8.chunk.js.map": "/my-react-sandbox/static/js/2.839d4cd8.chunk.js.map",
+    "static/js/3.e6421e27.chunk.js": "/my-react-sandbox/static/js/3.e6421e27.chunk.js",
+    "static/js/3.e6421e27.chunk.js.map": "/my-react-sandbox/static/js/3.e6421e27.chunk.js.map",
+    "index.html": "/my-react-sandbox/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/my-react-sandbox/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.839d4cd8.chunk.js.LICENSE.txt": "/my-react-sandbox/static/js/2.839d4cd8.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/my-react-sandbox/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c160302.js",
+    "static/js/2.839d4cd8.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.8267088e.chunk.js"
+  ]
+}
